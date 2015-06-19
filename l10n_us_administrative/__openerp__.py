@@ -23,7 +23,6 @@ Contributors
     'website': 'http://www.ursainfosystems.com',
 	'images': ['static/description/l10n_us_administrative.png'],
     "category" : "Localization",
-    "images" : [],
     "depends" : ["base", ],
     "init_xml" : [],
     "demo_xml" : [],

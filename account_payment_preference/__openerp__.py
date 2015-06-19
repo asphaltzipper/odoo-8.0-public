@@ -11,7 +11,7 @@
     "version" : "1.8",
     "author" : "Ursa Information Systems",
     "category" : "Accounting & Finance",
-    "summary": "Payment Modes on Partners, Invoices and Payments (Ursa)",
+    "summary": "Payment Preference on Partners, Invoices and Payments (Ursa)",
     'description':
         """ 
 Overview 
@@ -30,7 +30,7 @@ Contact
         """,
     "maintainer": 'Ursa Information Systems',
     "website": 'http://www.ursainfosystems.com',
-    "images" : [],
+    'images': ['static/description/partner_payment_pref.png','static/description/invoice_payment_pref.png','static/description/payment_payment_pref.png'],
     "depends" : ["base", "account_accountant","account_voucher"],
     "init_xml" : [],
     "demo_xml" : [],

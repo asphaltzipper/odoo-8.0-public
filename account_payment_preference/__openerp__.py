@@ -11,7 +11,7 @@
     "version" : "1.8",
     "author" : "Ursa Information Systems",
     "category" : "Accounting & Finance",
-    "summary": "Payment Modes on Partners, Invoices and Payments",
+    "summary": "Payment Modes on Partners, Invoices and Payments (Ursa)",
     'description':
         """ 
 Overview 
